@@ -26,6 +26,8 @@ This is a simple command-line calculator built using Python. It performs basic a
 2. Clone this repository or copy the code into a `.py` file.
 3. Run the script in your terminal or IDE:
 
-OR 
+ 
+
+## OR 
 git clone https://github.com/abanop22333/simple-calculator
 python calculator.py
